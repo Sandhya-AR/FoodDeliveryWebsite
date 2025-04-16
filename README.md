@@ -55,15 +55,15 @@ Make sure you have installed:
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Have suggestions or want to collaborate? Feel free to fork the repo and submit a PR, or connect with me on [LinkedIn](https://www.linkedin.com/in/sandhya-ar)
 
-📬 Contact
-Sandhya A R – Developer of Sezzato
-📧 Email: itissandhyak@gmail.com
-🔗 GitHub: [github.com/](https://github.com/Sandhya-AR)
+## 📬 Contact
+- Sandhya A R – Developer of Sezzato
+- 📧 Email: itissandhyak@gmail.com
+- 🔗 GitHub: [github.com/](https://github.com/Sandhya-AR)
 
-🌟 Acknowledgements
+## 🌟 Acknowledgements
 1. Vite for frontend dev environment
 2. Stripe Docs for payments
 3. React Toastify for UI alerts
