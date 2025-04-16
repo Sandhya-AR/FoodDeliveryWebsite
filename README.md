@@ -38,6 +38,11 @@ Sezzato is a feature-rich food delivery web application built with the **MERN st
 
 ---
 
+## 🎥 Demo Video
+🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1dUdBZf0oR7UBNJvX8xxPcOgo86K-PZ5M/view?usp=sharing)
+
+---
+
 ## 🚀 Hosted Demo
 
 - **Frontend:** [https://fooddeliverywebsite-frontend.onrender.com](https://fooddeliverywebsite-frontend.onrender.com)
