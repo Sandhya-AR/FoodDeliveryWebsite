@@ -55,13 +55,6 @@ Make sure you have installed:
 
 ---
 
-### Installation
-
-**Clone the Repository**
-```bash 
-git clone https://github.com/Sandhya-AR/FoodDeliveryWebsite.git
-cd FoodDeliveryWebsite 
-
 🤝 Contributing
 Have suggestions or want to collaborate? Feel free to fork the repo and submit a PR, or connect with me on [LinkedIn](https://www.linkedin.com/in/sandhya-ar)
 
